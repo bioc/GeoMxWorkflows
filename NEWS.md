@@ -1,4 +1,4 @@
-# GeoMxWorkflows 1.1.1
+# GeoMxWorkflows 1.0.1
 
 * Bug Fix: Header in vignette, remove self contained exception
 
